@@ -24,6 +24,7 @@ An end-to-end data-analytics project that compares farm performance across India
 12. [Limitations](#limitations)
 13. [Troubleshooting](#troubleshooting)
 14. [Changelog](#changelog)
+15. [License](#license)
 
 ---
 
@@ -181,6 +182,7 @@ Seasonal-Agriculture-Performance-Analysis/
 ├── app.py                         # Streamlit dashboard
 ├── requirements.txt               # pinned runtime + notebook dependencies
 ├── requirements-dev.txt           # + pytest
+├── LICENSE                        # MIT License
 └── README.md
 ```
 
@@ -345,3 +347,9 @@ pytest
 ### v1.0
 
 - Initial submission: notebook, Streamlit app and six charts.
+
+## License
+
+Copyright © 2026 **Harsh Mandaliya**. Released under the [MIT License](LICENSE).
+
+You may use, copy, modify and share this project, provided the copyright notice and license text are kept.
