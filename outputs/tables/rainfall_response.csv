@@ -1,0 +1,5 @@
+Rainfall_Band,Farms,Median_Yield_Index,Q1_Yield_Index,Q3_Yield_Index,Median_Pest_Risk_pct
+< 350 mm,890,0.7901,0.5,1.0,36.55
+350-550 mm,945,0.9904,0.6489,1.2325,41.2
+550-850 mm,1194,1.2079,0.7856,1.4965,49.6
+> 850 mm,923,1.0532,0.6755,1.3227,56.6

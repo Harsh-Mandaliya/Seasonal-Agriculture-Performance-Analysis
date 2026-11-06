@@ -1,0 +1,5 @@
+Check,Rows_Checked,Max_Abs_Deviation
+Production = Yield x Area,3968,0.005000000000002558
+Revenue = Production x Price,4000,0.5
+Profit = Revenue - Cost,4000,0.0
+Water efficiency = Production / Water x 1000,4000,0.000500000000000167

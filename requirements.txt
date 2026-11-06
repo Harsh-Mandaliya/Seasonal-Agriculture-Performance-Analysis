@@ -1,6 +1,10 @@
-pandas>=2.0
-numpy>=1.24
-matplotlib>=3.7
-streamlit>=1.30
-jupyter>=1.0
-openpyxl>=3.1
+# Runtime dependencies (tested with Python 3.11 - 3.14)
+pandas==3.0.5
+numpy==2.5.3
+matplotlib==3.11.2
+streamlit==1.63.0
+
+# Notebook
+jupyterlab==4.6.3
+ipykernel==7.3.0
+nbconvert==7.17.1

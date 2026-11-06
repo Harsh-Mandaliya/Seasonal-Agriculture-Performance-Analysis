@@ -1,0 +1,5 @@
+Irrigation_Method,Farms,Median_Yield_Index,Median_Water_Index,Median_Water_m3_per_Ha,Avg_Water_Efficiency,Median_Profit_per_Ha,Pct_Profitable
+Drip,915,1.1193,0.9213,529.841,6.2671,11176.9362,59.7814
+Sprinkler,734,1.0201,1.0499,589.8729,4.6698,1494.2836,51.9074
+Flood,1310,0.9756,1.3499,772.5017,3.4389,-2185.9153,47.1756
+Rainfed,1041,0.9325,0.5814,329.2453,7.5638,-2492.1466,46.878

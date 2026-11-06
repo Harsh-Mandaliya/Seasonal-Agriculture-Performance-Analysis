@@ -1,0 +1,11 @@
+Item,Value
+Records,4000
+States,8
+Districts,10
+Crops,8
+Seasons,3
+Irrigation methods,4
+Missing Rainfall_mm,48
+Missing Soil_Moisture_pct,40
+Yield values recovered from Production / Area,32
+Duplicate Farm_IDs,0

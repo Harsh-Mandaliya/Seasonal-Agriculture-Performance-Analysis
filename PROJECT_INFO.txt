@@ -1,4 +1,0 @@
-Project: Seasonal Agriculture Performance Analysis
-Program: VOIS AICTE Data Analytics
-Project Type: Data Analytics / Data Visualization
-Dataset: Agricultural performance dataset supplied for the project

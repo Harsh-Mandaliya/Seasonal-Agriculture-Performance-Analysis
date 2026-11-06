@@ -1,0 +1,4 @@
+Season,Farms,Median_Yield_Index,Avg_Yield_Tonnes_Ha,Total_Production_Tonnes,Avg_Revenue_INR,Avg_Cost_INR,Avg_Profit_INR,Median_Profit_per_Ha,Pct_Profitable,Median_Rainfall_mm,Median_Pest_Risk_pct,Avg_Water_Efficiency
+Kharif,1779,1.1286,5.6287,82387.61,710719.0556,531804.4081,178914.6476,8340.4494,57.7853,854.75,54.5,5.8918
+Rabi,1627,0.97,5.0927,67498.88,601526.0486,513836.5784,87689.4702,-894.3257,48.8629,430.3,40.6,5.1861
+Zaid,594,0.7928,4.6331,23098.35,519171.904,543976.729,-24804.8249,-13760.2587,35.5219,283.3,37.9,4.4132
